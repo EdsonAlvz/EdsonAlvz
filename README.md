@@ -12,13 +12,10 @@
   <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px>
 </picture>
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Optimization-dodgerblue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
-  <span style="font-size: 16px; color: black; font-weight: bold;">Focus: Optimization, Data Science</span><br>
-  <span style="font-size: 16px; color: black; font-weight: bold;">Languages: Spanish, English</span>
-</p>
 
+<br>
 
 
 🔹 🌱 Currently learning Cloud Computing ☁️
@@ -97,7 +94,17 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🤝 Connect with Me  
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/edson-rodrigo-%C3%A1lvarez-guti%C3%A9rrez-299369298/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+       
+ </div>
+
+</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/edson-rodrigo-%C3%A1lvarez-guti%C3%A9rrez-299369298/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
