@@ -1,10 +1,24 @@
-# **Hello, I'm Edson Álvarez!** 👋  
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=EdsonAlvz&color=blue" alt="watching_count" />
+ </p> 
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400"/>
 </p>
 
 ## 🚀 About Me  
+
+<picture> 
+  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px>
+</picture>
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Optimization-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <span style="font-size: 16px; color: black; font-weight: bold;">Focus: Optimization, Data Science</span><br>
+  <span style="font-size: 16px; color: black; font-weight: bold;">Languages: Spanish, English</span>
+</p>
+
 
 
 🔹 🌱 Currently learning Cloud Computing ☁️
@@ -59,6 +73,12 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a>  
+  
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+  </a>  
+</p>  
+  
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
   </a>  
