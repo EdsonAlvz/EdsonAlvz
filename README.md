@@ -43,12 +43,6 @@
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="snowflake" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354458/microsoft-azure.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-  </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
   </a>
@@ -63,7 +57,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonAlvz&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
