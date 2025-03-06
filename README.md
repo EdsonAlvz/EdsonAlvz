@@ -1,23 +1,25 @@
 # **Hello, I'm Edson Álvarez!** 👋  
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+    <h2>🚀 About Me</h2>
 
-## 🚀 About Me  
+    🔹 🌱 Currently learning Cloud Computing ☁️ <br>
+    🔹 🏫 Specializing in Machine Learning & Deep Learning 🧠 <br>
+    🔹 📌 Passionate about technology ⚙️, exploring new places 🗺️, and always eager to learn new things <br>
+    🔹 📈 I love working on projects that involve risk analysis, data migration, predictive modeling, and automation. <br>
 
-
-🔹 🌱 Currently learning Cloud Computing ☁️
-
-🔹 🏫 Specializing in Machine Learning & Deep Learning 🧠
-
-🔹 📌 Passionate about technology ⚙️, exploring new places 🗺️, and always eager to learn new things 
-
- 🔹📈 I love working on projects that involve **data-driven decision-making, predictive modeling, and automation**.  
-
-📧 **Contact me at:** [edson.alvarezgutierrez@gmail.com](mailto:edson.alvarezgutierrez@gmail.com)  
+    📧 **Contact me at:** [edson.alvarezgutierrez@gmail.com](mailto:edson.alvarezgutierrez@gmail.com)
+  </div>
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400"/>
+  </div>
+</div>
 
 ---
+
+
 
 ## 🛠️ Languages and Tools  
 <p align="left">
@@ -72,8 +74,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonAlvz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="42%"/>
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdsonAlvz&theme=dark)
-
 
 ---
 
