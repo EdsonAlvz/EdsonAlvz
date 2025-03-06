@@ -72,7 +72,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonAlvz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="42%"/>
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=EdsonAlvz&show_icons=true&theme=dark&locale=en" alt="EdsonAlvz" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonAlvz&theme=dark" alt="anii693" /></p>
 
 ---
 
