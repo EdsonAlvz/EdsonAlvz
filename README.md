@@ -3,14 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=00BFFF&width=370&height=100&lines=Hi+%2C+I'm+Edson+Álvarez+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </p>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400"/>
-</p>
+
 
 ## 🚀 About Me  
 
 <picture> 
-  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px>
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width = 400px>
 </picture>
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-dodgerblue" />
