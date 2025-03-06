@@ -1,6 +1,6 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=EdsonAlvz&color=blue" alt="watching_count" />
- </p> 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=042D5E&width=370&height=100&lines=Hi+%2C+I'm+Edson+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width="400"/>
@@ -105,15 +105,7 @@
 
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/edson-rodrigo-%C3%A1lvarez-guti%C3%A9rrez-299369298/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=EdsonAlvz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>  
+ 
 
 ---
 
