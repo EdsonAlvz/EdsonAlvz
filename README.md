@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **Machine Learning and Deep Learning** 🧠
 
-<img align="right" alt="Coding" width="300" src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47r1qqo4032im0kgkus7mh3oacngads2d6noeda101&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
 
 <br>
