@@ -5,10 +5,15 @@
 </p>
 
 ## 🚀 About Me  
-🔹 **Data Science & AI enthusiast** passionate about solving real-world problems using Machine Learning & Deep Learning.  
-🔹 **Currently exploring Cloud Computing** ☁️ and scalable data solutions.  
-🔹 I love working on projects that involve **data-driven decision-making, predictive modeling, and automation**.  
-🔹 Always eager to learn new technologies and collaborate with like-minded professionals.  
+
+
+🔹 🌱 Currently learning Cloud Computing ☁️
+
+🔹 🏫 Specializing in Machine Learning & Deep Learning 🧠
+
+🔹 📌 Passionate about technology ⚙️, exploring new places 🗺️, and always eager to learn new things 
+
+ 🔹📈 I love working on projects that involve **data-driven decision-making, predictive modeling, and automation**.  
 
 📧 **Contact me at:** [edson.alvarezgutierrez@gmail.com](mailto:edson.alvarezgutierrez@gmail.com)  
 
@@ -66,8 +71,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonAlvz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="42%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonAlvz&theme=dark" alt="GitHub Streak" width="50%"/>
-</p>  
+  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=EdsonAlvz&show_icons=true&theme=dark&locale=en" alt="EdsonAlvz" /></p>
 
 ---
 
