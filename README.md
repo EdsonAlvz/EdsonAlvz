@@ -7,15 +7,16 @@
 
 ## 🚀 About Me  
 
-<picture> 
-  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width = 400px>
-</picture>
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
-
 <br>
 
+<picture> 
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXB2anNjOW84cDYzemZkanc0d201Z3dxZnM0bnludWV2bzR1Nmx4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" width = 400px>
+</picture>
 
 🔹 🌱 Currently learning Cloud Computing ☁️
 
