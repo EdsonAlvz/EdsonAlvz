@@ -72,7 +72,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdsonAlvz&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" width="42%"/>
   
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonAlvz&theme=dark" alt="anii693" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdsonAlvz&theme=dark)
+
 
 ---
 
