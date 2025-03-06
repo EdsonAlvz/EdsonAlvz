@@ -11,7 +11,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-dodgerblue" />
-  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 <br>
 
 <picture> 
