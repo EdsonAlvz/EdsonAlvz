@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=00BFFF&width=370&height=100&lines=Hi+%2C+I'm+Edson+Álvarez+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</p>
 
 
 ## 🚀 About Me  
@@ -108,7 +103,7 @@
 
 ---
 
-**[EdsonAlvz](https://github.com/EdsonAlvz) | Last Edited on: 06/03/2025**  
+**[EdsonAlvz](https://github.com/EdsonAlvz) | Last Edited on: 07/28/2025**  
 
 ---
 
